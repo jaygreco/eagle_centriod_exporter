@@ -8,4 +8,4 @@ The "Screaming Circuits" ULP that ships with EAGLE is in inches. What if you wan
 
 # How?
 
-Simply run export_centroid_mils.ulp or export_centroid_mm.ulp. To mark a part as NOPOP, create an attribute with name "BOM_DNP" and vale "DNP". The export ULP will ignore it when creating the placement file.
+Simply run export_centroid_mils.ulp or export_centroid_mm.ulp. To mark a part as NOPOP, create an attribute with name "BOM_DNP" and value "DNP". The export ULP will ignore it when creating the placement file.
